@@ -10,3 +10,5 @@ In this project, I used data collected from Airbnb listings in New York City fro
   - Reviews (total # of reviews, date of last review, average # of reviews per month)
   
   - Host Information (host name, host id, how many listings the host has)
+
+Please look at the project write up, the pdf file uploaded in this repository, for a deep dive into this project description, processing, analysis, and results.
