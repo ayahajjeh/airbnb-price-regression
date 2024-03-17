@@ -1,5 +1,5 @@
 # Airbnb Price Estimation Using Regression
-In this project, I used data collected from Airbnb listings in New York City from 2008 to 2019 to build a regression model which estimates the price of an Airbnb listing given several relevant factors, including
+In this project, @bilanaden1 and I used data collected from Airbnb listings in New York City from 2008 to 2019 to build a regression model which estimates the price of an Airbnb listing given several relevant factors, including
 
   - Location (neighborhood, latitude, longitude)
   
