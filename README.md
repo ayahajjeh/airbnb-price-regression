@@ -1,4 +1,6 @@
 # Airbnb Price Estimation Using Regression
+`This was one of my projects for CS74 Machine Learning class at Dartmouth College.`
+
 In this project, @bilanaden1 and I used data collected from Airbnb listings in New York City from 2008 to 2019 to build a regression model which estimates the price of an Airbnb listing given several relevant factors, including
 
   - Location (neighborhood, latitude, longitude)
